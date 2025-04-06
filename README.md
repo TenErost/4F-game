@@ -1,3 +1,4 @@
+# APS4 - Finální projekt
 Dobrý den, na tomto GitHub repositáři naleznete všechny soubory našeho finálního projektu.
 Hra není z daleka hotová, avšak je v funkčním stavu.
 
@@ -28,9 +29,13 @@ Co ještě bude:
 - Hazardy v prostředí (ostny, oheň)
 - Systém smrti hráče
 - Načítací obrazovky (hra zatím načítá modely, podle toho kdy jsou třeba, a pomalu...)
+- Optimalizace
 
 Co nebude:
 
 - Inventář
 - Dialogy
 - Více zbraní
+
+**Hra je ke stažení [zde](https://github.com/TenErost/4F-game/releases)**
+
