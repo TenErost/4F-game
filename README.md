@@ -1,6 +1,6 @@
 # APS4 - Finální projekt
 Dobrý den, na tomto GitHub repositáři naleznete všechny soubory našeho finálního projektu.
-Hra není z daleka hotová, avšak je v funkčním stavu.
+Hra není z daleka hotová, avšak je ve funkčním stavu.
 
 Věci které fungují a jsou hotové:
 
