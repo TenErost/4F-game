@@ -20,7 +20,7 @@ Věci které fungují a jsou hotové:
 - Interakce s prostředím (páky, dveře...)
 
 
-Co ještě bude:
+Co ještě bude (Všechny tyto věci jsme bohužel do deadlinu nestihli):
 
 - **Celá mapa**
 - Krátká dějová linka
@@ -37,5 +37,7 @@ Co nebude:
 - Dialogy
 - Více zbraní
 
-**Hra je ke stažení [zde](https://github.com/TenErost/4F-game/releases)**
+
+
+# **Hra je ke stažení [zde](https://github.com/TenErost/4F-game/releases)**
 
